@@ -13,7 +13,7 @@
 
 **Talking about Personal Stuffs**:
 
-- 👨🏽‍💻 Preview of my skills and experience: [Portfolio]()
+- 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://personalportfoliowebsite33.netlify.app/)
 - 🌱 I’m currently learning React, Bootstrap5, jQuery, and SASS.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com)
 - 💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)** I am happy to help!
