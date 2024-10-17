@@ -4,21 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stephen+Ombuya!;" />
 </h1>
 
+<p>Hi, I'm Stephen Ombuya, a Software Engineer 🚀. I'm a creative problem-solving enthusiast, with a constantly growing love for languages. Passionate about ideating, conceptualizing, and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting back-end development opportunities in startups as well as companies with scale.
+
+</p>
 <h3 align="center">A passionate software Engineer from Kenya</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Front End Development**
- 
- 🌱 I’m currently learning **React, jQuery, Bootstrap5, SASS**
+**Talking about Personal Stuffs**:
 
-💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)**
+- 👨🏽‍💻 Preview of my skills and experience: [Portfolio]()
+- 🌱 I’m currently learning React, Bootstrap5, jQuery, and SASS.
+- 👯 I’m looking to collaborate on [GitHub](https://github.com)
+- 💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)** I am happy to help!
+- ⚡️ Fun-Fact: **I like dancing to Amapiano music and having fun**
+- 📫 How to reach me: [michiekaombuya@gmail.com](mailto:michiekaombuya@gmail.com)
+- 😄 Pronouns: Ste[fen]
+- 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
 
-⚡ Fun fact **I like dancing to Amapiano music and having fun**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:michiekaombuya@gmail.com">
@@ -33,6 +36,8 @@
 </div>
 
  <hr/>
+ <br>
+ <br>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -41,9 +46,10 @@
     <img src="https://skillicons.dev/icons?i=maven,hibernate,postgresql,python,javascript,pycharm,c,java,eclipse,mysql,flask" /><br>
 </div>
 
-<br/>
 <hr/>
-
+ <br>
+ <br>
+ 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -53,6 +59,8 @@
 </div>
 
 <hr/>
+ <br>
+ <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -65,11 +73,9 @@
  
 </div>
 
-<br/><br/>
-
 <hr/>
-
-<br/>
+<br>
+<br>
 
 <div align="center">
 <a href='https://ko-fi.com/stephenemichieka' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
