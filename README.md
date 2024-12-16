@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs**:
 
 - 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://stephenombuya.github.io)
-- 🌱 I’m currently learning React, Bootstrap5, jQuery, and SASS.
+- 🌱 I’m currently learning **React**, **Bootstrap5**, **jQuery**, and **SASS**.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com)
 - 💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)** I am happy to help!
 - ⚡️ Fun-Fact: **I like dancing to Amapiano music and having fun**
