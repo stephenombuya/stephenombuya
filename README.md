@@ -66,6 +66,10 @@
 <br>
 <div align=center>
     
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenombuya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenombuya&langs_count=8&layout=pie)](https://github.com/stephenombuya/github-readme-stats)
+ 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=stephenombuya)](https://git.io/streak-stats)
   <br/>
 
