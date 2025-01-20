@@ -22,7 +22,7 @@
 - 😄 Pronouns: Ste[fen]
 - 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenombuya" alt="stephenombuya"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenombuya&theme=matrix" alt="stephenombuya"/></a> </p>
  
 <div align="center"> 
   <a href="mailto:michiekaombuya@gmail.com">
