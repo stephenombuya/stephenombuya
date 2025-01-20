@@ -7,7 +7,7 @@
 <p>Hi, I'm Stephen Ombuya, a Software Engineer 🚀. I'm a creative problem-solving enthusiast, with a constantly growing love for languages. Passionate about ideating, conceptualizing, and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting back-end development opportunities in startups as well as companies with scale.
 
 </p>
-<h3 align="center">A passionate software Engineer from Kenya</h3>
+<h3 align="center">A <b>Solutions-Oriented Software Engineer</b> from Kenya</h3>
 
 <br/>
 
@@ -22,6 +22,7 @@
 - 😄 Pronouns: Ste[fen]
 - 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenombuya" alt="stephenombuya"/></a> </p>
  
 <div align="center"> 
   <a href="mailto:michiekaombuya@gmail.com">
@@ -31,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://stephenombuya.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -43,7 +44,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=css,html,vscode,github,aws,spring,netlify,django,git,r" />
-    <img src="https://skillicons.dev/icons?i=maven,hibernate,postgresql,python,javascript,pycharm,c,java,eclipse,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=maven,hibernate,postgresql,python,javascript,pycharm,c,java,eclipse,mysql,flask,postman" /><br>
+     <img src="https://skillicons.dev/icons?i=bash,bootstrap,firebase,supabase,github,heroku,linux,nginx,nodejs,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,vercel,linkedin,twitter,instagram" /><br>
 </div>
 
 <hr/>
