@@ -28,7 +28,7 @@
   <a href="mailto:michiekaombuya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/stephen-ombuya-backend-web-engineer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFO%2F6q%2FbOTAK8063R4tdkgw%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/stephen-ombuya/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFO%2F6q%2FbOTAK8063R4tdkgw%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://stephenombuya.github.io/" target="_blank">
