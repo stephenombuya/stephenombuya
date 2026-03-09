@@ -14,12 +14,12 @@
 **Talking about Personal Stuffs**:
 
 - 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://stephenombuya.github.io)
-- 🌱 I’m currently learning **React**, **Bootstrap5**, **jQuery**, and **SASS**.
+- 🌱 I’m currently learning **React**, **TailWind CSS**, and **TypeScript**
 - 👯 I’m looking to collaborate on [GitHub](https://github.com)
 - 💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)** I am happy to help!
 - ⚡️ Fun-Fact: **I like dancing to Amapiano music and having fun**
 - 📫 How to reach me: [michiekaombuya@gmail.com](mailto:michiekaombuya@gmail.com)
-- 😄 Pronouns: Ste[fen]
+- 😄 Pronouns: Sti[fin]
 - 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenombuya&theme=matrix" alt="stephenombuya"/></a> </p>
