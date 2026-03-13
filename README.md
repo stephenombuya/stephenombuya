@@ -45,7 +45,22 @@
 
  <hr/>
  <br>
- <br>
+
+ <h2 align="center">🌐 Portfolio Preview</h2>
+
+  <p align="center">
+    <a href="https://stephenombuya.github.io/" target="_blank">
+      <img src="./images/portfolio-preview.png" width="900" alt="Stephen Ombuya Portfolio"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <b>Click the image to visit the live portfolio</b>
+  </p>
+
+<br/>
+
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -85,7 +100,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="Track my coding streaks over time 🐍" src="https://raw.githubusercontent.com//stephenombuya/stephenombuya/output/github-contribution-grid-snake.svg" />
+  <img alt="Track my coding streaks over time 🐍" src="https://raw.githubusercontent.com/stephenombuya/stephenombuya/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
