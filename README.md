@@ -83,7 +83,7 @@
 <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
 
 ### 🌐 Social / Networking
-<img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram" />
+<img src="https://skillicons.dev/icons?i=twitter,instagram,bluesky" />
 
 </div>
 
