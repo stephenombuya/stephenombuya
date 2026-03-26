@@ -28,15 +28,10 @@
 - ⚡️ Fun-Fact: **I like dancing to Amapiano music and having fun**
 - 📫 How to reach me: [michiekaombuya@gmail.com](mailto:michiekaombuya@gmail.com)
 - 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenombuya&theme=matrix" alt="stephenombuya"/></a> </p>
  
 <div align="center"> 
   <a href="mailto:michiekaombuya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/stephen-ombuya/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFO%2F6q%2FbOTAK8063R4tdkgw%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://stephenombuya.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
