@@ -2,135 +2,108 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;I'm+Stephen+Ombuya!" 
-    alt="Hi there! I'm Stephen Ombuya!" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=700&height=100&duration=4000&lines=Hey+👋;I'm+Stephen+Ombuya;I+Build+Scalable+Systems" 
+    alt="Stephen Ombuya Intro" 
   />
 </h1>
 
-
-<p>
-    Hi, I'm Stephen Ombuya 👋  
-🚀 Software Engineer | Problem-Solver | Back-End Enthusiast  
-💡 Passionate about building consumer-centric, scalable products from scratch  
-🌍 Based in Kenya | Open to startup & growth-stage opportunities
-
+<p align="center">
+  <b>Software Engineer • Backend-Focused • Systems Thinker</b>
 </p>
-<h3 align="center">A <b>Solutions-Oriented Software Engineer</b> from Kenya</h3>
 
-<br/>
+<p align="center">
+  I design and build scalable, production-ready systems from scratch.<br/>
+  Focused on clean architecture, performance, and solving real-world problems with code.
+</p>
 
-**About Me**:
+<p align="center">
+   Kenya •  Open to startup & growth-stage opportunities
+</p>
 
-- 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://stephenombuya.github.io)
-- 🌱 I’m currently learning **React**, **TailWind CSS**, and **TypeScript**
-- 👯 I’m looking to collaborate on [my GitHub](https://github.com/stephenombuya)
-- 💬 Ask me about **Java, Python, Responsive Web Design... or anything [here](https://github.com/stephenombuya/stephenombuya/issues)** I am happy to help!
-- ⚡️ Fun-Fact: **I like dancing to Amapiano music and having fun**
-- 📫 How to reach me: [michiekaombuya@gmail.com](mailto:michiekaombuya@gmail.com)
-- 📝 [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
- 
-<div align="center"> 
-  <a href="mailto:michiekaombuya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://stephenombuya.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+---
 
- <hr/>
- <br>
+##  About Me
 
- <h2 align="center">🌐 Portfolio Preview</h2>
+-  I build systems — not just features
+-  Strong focus on **backend engineering & scalable architectures**
+-  I turn ideas into **reliable, working products**
+-  I care about **clean code, performance, and maintainability**
+-  Always learning, always improving
 
-  <p align="center">
-    <a href="https://stephenombuya.github.io/" target="_blank">
-      <img src="./images/portfolio-preview.png" width="900" alt="Stephen Ombuya Portfolio"/>
-    </a>
-  </p>
+---
 
-  <p align="center">
-    <b>Click the image to visit the live portfolio</b>
-  </p>
+##  Links
 
-<br/>
+-  [Portfolio](https://stephenombuya.github.io)
+-  [Resume](https://docs.google.com/document/d/1lrcTmxPZXOIbGlYXSokRTRpZ3u5eiQ_HYfUVJs1TUcI/edit?usp=sharing)
+-  [Email](michiekaombuya@gmail.com) 
 
+---
 
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
+##  Tech Stack
 
-### 💻 Frontend / Web
+###  Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
 
-### 🖥️ Backend / Server
+###  Backend
 <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,hibernate" />
 
-### 🗄️ Databases
+###  Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" />
 
-### 📝 Programming Languages
+###  Languages
 <img src="https://skillicons.dev/icons?i=python,java,c,r" />
 
-### 🛠️ Dev Tools & IDEs
+###  Tools
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,maven,postman" />
 
-### ☁️ Version Control & Deployment
+###  DevOps & Deployment
 <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,aws,nginx" />
 
-### 🖧 Operating Systems & Shell
-<img src="https://skillicons.dev/icons?i=linux,windows,bash" />
+---
 
-### 🌐 Social / Networking
-<img src="https://skillicons.dev/icons?i=twitter,instagram,bluesky" />
+##  Portfolio
 
-</div>
-
-
-<hr/>
- <br>
- <br>
- 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="Track my coding streaks over time 🐍" src="https://raw.githubusercontent.com/stephenombuya/stephenombuya/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
- <br>
- <br>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenombuya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenombuya&langs_count=8&layout=pie)](https://github.com/stephenombuya/github-readme-stats)
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=stephenombuya)](https://git.io/streak-stats)
-  <br/>
-
-</div>
-
-<hr/>
-<br>
-<br>
-
-<div align="center">
-
-<p>☕ Like my work?
-    <br>
-    <br>
-    <a href="https://ko-fi.com/stephenemichieka" target="_blank">
-        <img height="64" style="border:0;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at Ko-fi" />
-    </a>
+<p align="center">
+  <a href="https://stephenombuya.github.io/" target="_blank">
+    <img src="./images/portfolio-preview.png" width="900" alt="Portfolio Preview"/>
+  </a>
 </p>
 
+<p align="center">
+  <b>Click to explore my work</b>
+</p>
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+    
+[![Stats](https://github-readme-stats.vercel.app/api?username=stephenombuya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenombuya&layout=compact)](https://github.com/stephenombuya/github-readme-stats)
+
+[![Streak](https://streak-stats.demolab.com/?user=stephenombuya)](https://git.io/streak-stats)
+
 </div>
 
-<br/>
+---
+
+##  Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stephenombuya/stephenombuya/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+##  Support
+
+If you like what I build:
+
+<p align="center">
+  <a href="https://ko-fi.com/stephenemichieka" target="_blank">
+    <img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" />
+  </a>
+</p>
