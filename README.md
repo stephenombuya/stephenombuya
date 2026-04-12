@@ -1,5 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stephenombuya.stephenombuya" />
 
+<!-- Repository Analytics -->
+![GitHub repo size](https://img.shields.io/github/repo-size/stephenombuya/stephenombuya)
+![GitHub language count](https://img.shields.io/github/languages/count/stephenombuya/stephenombuya)
+![GitHub top language](https://img.shields.io/github/languages/top/stephenombuya/stephenombuya)
+![GitHub last commit](https://img.shields.io/github/last-commit/stephenombuya/stephenombuya)
+![GitHub contributors](https://img.shields.io/github/contributors/stephenombuya/stephenombuya)
+
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=700&height=100&duration=4000&lines=Hey+👋;I'm+Stephen+Ombuya;I+Build+Scalable+Systems" 
